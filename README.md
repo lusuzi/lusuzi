@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+😄 我是鹿苏子，95后，喜欢读书、赚钱、跑步、编程，并正在计划尝试做些小项目。
+
+你可以到我的[网站](https://lusuzi.github.io)来玩，如果想交流一下，可以给我[发邮件](mailto:letter_chat@outlook.com)，也可以直接在各 issues 里进行相关评论。
+
+- [我的2021](https://github.com/lusuzi/gitblog)
+
 <!--
 **lusuzi/lusuzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
